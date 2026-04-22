@@ -1,1 +1,1 @@
-Criação do GIT da UC00617
+Projeto do GIT da UC00617
