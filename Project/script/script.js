@@ -9,4 +9,5 @@ console.log("Teste Gabriel");
 console.log("Teste Gabriel");
 
 // Novas linhas de comando
-console.log("Novas linhas de comando")
+console.log("Novas linhas de comando");
+console.log("Olá a todos");
