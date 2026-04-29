@@ -20,9 +20,15 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    border: 2px solid black;
+    gap: 10px;
 }
 
-.card a {
-    text-align: center;
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.form label {
+    transform: translateX(-10px);
 }
